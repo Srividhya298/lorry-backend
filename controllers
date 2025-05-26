@@ -1,0 +1,8 @@
+lorry-backend/
+├── controllers/
+├── models/
+├── routes/
+├── uploads/             # For storing images
+├── .env                 # For secrets
+├── package.json
+├── server.js
